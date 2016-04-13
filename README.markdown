@@ -1,6 +1,8 @@
 Gitolite README
 ===============
 
+I don't know where it is from.
+
 ## about this README
 
 **(Github-users: click the "wiki" link before sending me anything via github.)**
